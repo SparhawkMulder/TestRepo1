@@ -4,7 +4,9 @@ author: "Sparhawk"
 date: "2023-01-25"
 output: html_document
 ---
+## Add new links by typing [text](link), easy
 
+add images with a link as well, but you have to upload the image to github as well
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
